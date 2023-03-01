@@ -12,6 +12,8 @@ public class CalcTest {
         Calculator calculator = new Calculator();
         int result = calculator.add(a, b);
         assertEquals(4, result);
+        int result2 = calculator.add(2, 4);
+        assertEquals(6, result2);
     }
 
 }
