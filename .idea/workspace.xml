@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10082e2c-fdcc-40c0-b982-7e830b075e30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/FailedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.JunitTest.test">
     <configuration name="FailedTest.testCalculatorAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calculator" />
       <option name="PACKAGE_NAME" value="" />
@@ -50,8 +49,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JunitTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JunitTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JunitTest.test" />
         <item itemvalue="JUnit.FailedTest.testCalculatorAdd" />
       </list>
     </recent_temporary>
